@@ -9,9 +9,10 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Teste Exame</title>
     </head>
     <body>
+        <%@include file="WEB-INF/jspf/header.jspf" %>
         <h1>Exame POO</h1>
     </body>
 </html>
